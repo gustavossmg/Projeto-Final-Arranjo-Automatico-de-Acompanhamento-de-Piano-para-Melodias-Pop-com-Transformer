@@ -1,1 +1,1 @@
-# Projeto-Final---Arranjo-Autom-tico-de-Acompanhamento-de-Piano-para-Melodias-Pop-com-Transformer
+# Projeto Final - Arranjo Automático de Acompanhamento de Piano para Melodias Pop com Transformer
